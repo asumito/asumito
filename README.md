@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [https://blog.asumito.com](https://blog.asumito.com)
 
-- 📫 How to reach me **asumito@asumito.com**
+- 📫 How to reach me **you can't**
 
 - ⚡ Fun fact **I think I am funny.**
 
