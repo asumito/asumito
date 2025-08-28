@@ -31,8 +31,8 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Cute Neon cat uwu
+ <img src="https://media1.tenor.com/m/2roX3uxz_68AAAAC/cat-space.gif" alt="Neon Cat" class="w-16 h-16 rounded-full object-cover">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asumito&icon=0&color=0)](https://visitcount.itsvg.in)
